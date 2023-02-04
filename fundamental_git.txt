@@ -1,0 +1,8 @@
+git ini = untuk menginisialisasi sebuah folder menjadi repository git
+git status = mengecek status file, apakah file itu berstatus Untracked, staging area atau modified
+git add = untuk memasukan file ke stagging area
+git log = melihar history commit
+git commit =  mencatat perubahan yang dilakukan
+git push = mengirim kan commit ke server
+git pull = mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain
+git config = biasanya digunakan untuk mengkonfigurasi username dan email
