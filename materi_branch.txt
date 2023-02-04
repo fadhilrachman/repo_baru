@@ -1,0 +1,6 @@
+branch adalah sebuah percabangan dalam sebuah repository, biasanya digunakan untuk menambahkan fitur dan juga memudahkan development
+beberapa perintah brach:
+- git branch = untuk melihat semua branch
+- git branch nama_branch = menambahkan branch
+- git checkout nama_branch = pindah ke branch yg dituju
+- git branch -d nama_branch = menghapus branch
